@@ -45,3 +45,7 @@
     background-color: white;
     color: blue;
   }
+
+  body {
+    background-image: url('./resources/images/background.png');
+  }
