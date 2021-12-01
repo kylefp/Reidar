@@ -40,6 +40,8 @@
     font-weight: bold;
   }
 
-  #get-involved a {
+  #application-form {
     font-weight: bold;
+    background-color: white;
+    color: blue;
   }
