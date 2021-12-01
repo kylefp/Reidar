@@ -18,7 +18,12 @@
     text-decoration: none;
   }
 
-  .topnav {
+  .topnav, a:link, a:visited {
     background-color: black;
     color: white;
+  }
+
+  a:hover, a:active {
+    background-color: white;
+    color: black;
   }
