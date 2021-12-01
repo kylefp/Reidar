@@ -28,7 +28,7 @@
     color: black;
   }
 
-  a {
-    padding: 50px;
-    border: 10px solid blue;
+  .topnav a {
+    padding-right: 50px;
+    border-style: 10px solid blue;
   }
