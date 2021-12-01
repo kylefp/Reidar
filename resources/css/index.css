@@ -35,3 +35,11 @@
   .topnav {
     line-height: 2rem;
   }
+
+  #history h3 {
+    font-weight: bold;
+  }
+
+  #get-involved a {
+    font-weight: bold;
+  }
