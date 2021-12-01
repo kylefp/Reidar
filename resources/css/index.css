@@ -18,12 +18,12 @@
     text-decoration: none;
   }
 
-  .topnav, a:link, a:visited {
+  .topnav, .topnav a:link, .topnav a:visited {
     background-color: black;
-    color: red;
+    color: white;
   }
 
-  a:hover, a:active {
+  .topnav a:hover, .topnav a:active {
     background-color: white;
     color: black;
   }
