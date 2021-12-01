@@ -27,3 +27,7 @@
     background-color: white;
     color: black;
   }
+
+  .topnav a {
+    padding: 10px;
+  }
