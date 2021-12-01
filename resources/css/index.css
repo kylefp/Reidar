@@ -20,7 +20,7 @@
 
   .topnav, a:link, a:visited {
     background-color: black;
-    color: white;
+    color: red;
   }
 
   a:hover, a:active {
