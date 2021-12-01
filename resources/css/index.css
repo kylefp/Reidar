@@ -4,12 +4,10 @@
     color: white;
   }
    
-   
-  h1 {
-    color: pink;
+  body {
+    background-image: url('./resources/images/background.jpeg');
   }
-   
-   
+
   p, 
   li {
     font-size: 18px;
@@ -48,6 +46,8 @@
     color: blue;
   }
 
-  body {
-    background-image: url('./resources/images/background.jpeg');
+  .invite-only h1{
+    font-size: 120px;
   }
+
+  
