@@ -29,8 +29,7 @@
   }
 
   .topnav a {
-    padding-right: 5px;
-    padding-left: 5px;
+    padding: 1px 5px;
   }
 
   .topnav {
