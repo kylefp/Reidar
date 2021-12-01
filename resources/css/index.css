@@ -30,6 +30,9 @@
 
   .topnav a {
     padding-right: 5px;
+  }
+
+  .topnav {
     padding-top: 5px;
     padding-bottom: 5px;
   }
