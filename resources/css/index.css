@@ -66,9 +66,6 @@ body {
   #peak-inside-our-vault li {
     display: inline;
     margin-right: 100px;
-    padding: 20px;
-    border: 5px solid grey;
-    background-color: grey;
   }
 
   #peak-inside-our-vault li img {
