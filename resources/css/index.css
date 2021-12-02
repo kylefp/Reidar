@@ -68,9 +68,6 @@ body {
     border: 1px solid grey;
     background-color: grey;
     margin-right: 100px;
-    height: 300px;
-    width: 300px;
-    float: left;
   }
 
   .application {
