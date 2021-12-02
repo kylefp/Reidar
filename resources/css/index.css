@@ -77,6 +77,7 @@ body {
 
   .invite-only img {
     float: right;
+    border-radius: 50px;
   }
 
   .invite-only {
@@ -104,6 +105,10 @@ body {
 
   footer a {
     padding-right: 5px;
+  }
+
+  footer img {
+    border-radius: 50px;
   }
 
   /* Style all font awesome icons */
