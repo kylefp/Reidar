@@ -55,6 +55,11 @@ body {
     border-radius: 15px;
   }
 
+  #get-involved button:hover {
+    background-color: grey;
+    color: blue;
+  }
+
   .invite-only p{
     font-size: 100px;
     font-weight: bold;
@@ -65,4 +70,8 @@ body {
 
   .invite-only img {
     float: right;
+  }
+
+  .invite-only {
+    border: 2px solid black;
   }
