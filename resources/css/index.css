@@ -109,8 +109,8 @@ body {
   /* Style all font awesome icons */
 .fa {
   padding: 20px;
-  font-size: 20px;
-  width: 30px;
+  font-size: 30px;
+  width: 50px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
@@ -137,6 +137,6 @@ body {
 
 /* Gmail */
 .fa-gmail {
-  background: #3B5998;
+  background: #db4848e5;
   color: white;
 }
