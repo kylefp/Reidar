@@ -65,6 +65,7 @@ body {
 
   #peak-inside-our-vault li {
     display: inline;
+    margin-right: 100px;
   }
 
   .application {
