@@ -64,8 +64,7 @@ body {
   }
 
   #get-involved a {
-    display: flex;
-    justify-content: center;
+    text-align: center;
   }
 
   .invite-only p{
