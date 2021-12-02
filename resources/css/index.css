@@ -54,6 +54,7 @@ body {
     color: blue;
     padding: 10px;
     border-radius: 15px;
+    margin-bottom: 20px;
   }
 
   #application-form:hover {
@@ -79,7 +80,7 @@ body {
   }
 
   .twitter-timeline {
-    margin: 50px;
+    margin-top: 20px;
   }
 
   footer {
