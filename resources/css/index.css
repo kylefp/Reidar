@@ -155,9 +155,10 @@ body {
 
 #peak-inside-our-vault {
   width: 100%;
-  height: 150px;
-  background-color: #ff0000;
+  height: 500px;
+  background-color: grey;
   overflow: auto;
+  white-space:nowrap;
 }
 
 #peak-insdide-our-vault .carousel {
