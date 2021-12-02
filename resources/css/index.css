@@ -58,6 +58,7 @@ body {
   #get-involved button:hover {
     background-color: grey;
     color: blue;
+    cursor: pointer;
   }
 
   .invite-only p{
