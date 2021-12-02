@@ -157,3 +157,7 @@ body {
   background: #dd4b39;
   color: white;
 }
+
+.carousel {
+  overflow: scroll;
+}
