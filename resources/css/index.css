@@ -47,13 +47,16 @@ body {
     font-weight: bold;
   }
 
-  #get-involved button {
+  #application-form {
     font-weight: bold;
     background-color: white;
+    border: 2px solid white;
     color: blue;
+    padding: 10px;
+    border-radius: 15px;
   }
 
-  #get-involved button:hover {
+  #application-form:hover {
     background-color: grey;
     color: blue;
     cursor: pointer;
