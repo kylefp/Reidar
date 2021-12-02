@@ -63,6 +63,11 @@ body {
     cursor: pointer;
   }
 
+  #get-involved a {
+    display: flex;
+    justify-content: center;
+  }
+
   .invite-only p{
     font-size: 100px;
     font-weight: bold;
