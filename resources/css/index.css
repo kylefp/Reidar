@@ -64,7 +64,3 @@ body {
   .invite-only img {
     float: right;
   }
-
-  .invite-only {
-    border: 2px solid red;
-  }
