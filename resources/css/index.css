@@ -37,7 +37,7 @@ body {
 
   .topnav a {
     padding: 1px 5px;
-    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+    text-shadow: 0 0 32px white;
   }
 
   .topnav {
