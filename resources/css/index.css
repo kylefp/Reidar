@@ -79,6 +79,8 @@ body {
   }
 
   footer {
+    margin-top: 50px;
     color: white;
     font-size: 14px;
+    text-aling: center;
   }
