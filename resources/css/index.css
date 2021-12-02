@@ -68,12 +68,9 @@ body {
     border: 1px solid grey;
     background-color: grey;
     margin-right: 100px;
-  }
-
-  .carousel {
-    width: 800px;
-    overflow: scroll;
-    display:inline-block;
+    height: 300px;
+    width: 300px;
+    float: left;
   }
 
   .application {
@@ -159,3 +156,11 @@ body {
   background: #dd4b39;
   color: white;
 }
+
+#outer-wrapper { 
+  height: 100px; overflow: auto; width: 500px; overflow-y: hidden;
+}
+
+#inner-wrapper { 
+  width: 1200px;
+}​
