@@ -58,7 +58,7 @@ body {
     font-weight: bold;
     line-height: 4px;
     color: rgba(225,225,225,0.96);
-    text-shadow: 0 0 10px #808080, 0 0 20px #fff;
+    text-shadow: 10px 10px 10px #808080, 10px 10px 10px #fff;
   }
 
   
