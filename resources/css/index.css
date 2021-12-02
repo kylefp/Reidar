@@ -67,14 +67,6 @@ body {
     padding: 10px;
     border: 1px solid grey;
     background-color: grey;
-    display: inline-block;
-    overflow: scroll;
-    margin-right: 100px;
-  }
-
-  #peak-inside-our-vault li {
-    display: inline-block;
-    overflow: scroll;
     margin-right: 100px;
   }
 
