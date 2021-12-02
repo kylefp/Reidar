@@ -60,8 +60,3 @@ body {
     color: rgba(225,225,225,0.96);
     text-shadow: 10px 10px 10px #808080, 10px 10px 10px #808080;
   }
-
-  .relative {
-    position: relative;
-  }
-  
