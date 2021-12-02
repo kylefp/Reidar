@@ -77,3 +77,8 @@ body {
   .invite-only {
     border: 2px solid black;
   }
+
+  footer {
+    color: white;
+    font-size: 14px;
+  }
