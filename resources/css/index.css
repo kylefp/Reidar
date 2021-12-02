@@ -63,11 +63,6 @@ body {
     cursor: pointer;
   }
 
-  #peak-inside-our-vault li {
-    display: inline;
-    margin-right: 100px;
-  }
-
   #peak-inside-our-vault li img {
     padding: 10px;
     border: 1px solid grey;
@@ -156,4 +151,16 @@ body {
 .fa-google {
   background: #dd4b39;
   color: white;
+}
+
+#peak-inside-our-vault {
+  width: 100%;
+  height: 150px;
+  background-color: #ff0000;
+  overflow: auto;
+}
+
+#peak-insdide-our-vault .carousel {
+  display: inline-block;
+  margin: 100px;
 }
