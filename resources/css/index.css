@@ -155,8 +155,9 @@ body {
 
 #peak-insdide-our-vault .carousel {
   display: inline-block;
-  margin: 100px;
+  margin-right: 100px;
   width: 100px;
+  height: 100px;
   background-color: grey;
   overflow: auto;
   white-space:nowrap;
