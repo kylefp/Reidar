@@ -63,7 +63,7 @@ body {
     cursor: pointer;
   }
 
-  #carousel img {
+  .carousel img {
     padding: 10px;
     border: 1px solid grey;
     background-color: grey;
