@@ -67,6 +67,10 @@ body {
     cursor: pointer;
   }
 
+  .scrolling {
+    display: inline;
+  }
+  
   .carousel img {
     padding: 10px;
     border: 1px solid grey;
@@ -167,7 +171,7 @@ body {
 .arrow-right {
   border: solid white;
   border-width: 0 3px 3px 0;
-  padding: 3px;
+  padding: 10px;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
   float: right;
@@ -176,7 +180,7 @@ body {
 .arrow-left {
   border: solid white;
   border-width: 0 3px 3px 0;
-  padding: 3px;
+  padding: 10px;
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
   float: left;
