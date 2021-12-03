@@ -1,5 +1,4 @@
 body {
-    background-image: url('./resources/images/background.jpeg');
     font-family: ElucidCircular, Arial, sans-serif;
     background-color: black;
     color: white;
@@ -208,10 +207,6 @@ body {
   to {
     transform: rotate(359deg);
   }
-}
-
-#mission {
-  margin: 20px;
 }
 
 #get-involved {
