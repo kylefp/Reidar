@@ -47,6 +47,10 @@ body {
     font-weight: bold;
   }
 
+  .application {
+    text-align: center;
+  }
+
   #application-form {
     font-weight: bold;
     background-color: white;
@@ -75,10 +79,9 @@ body {
     white-space: nowrap;
     width: 900px;
     overflow-x: auto;
-  }
-
-  .application {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .invite-only p{
