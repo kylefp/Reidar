@@ -50,6 +50,7 @@ body {
   #history {
     background-image: url('./resources/images/background.jpeg');
     background-repeat: no-repeat;
+    background-size: cover;
   }
   #history h3 {
     font-weight: bold;
