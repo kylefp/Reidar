@@ -70,7 +70,7 @@ body {
     margin-right: 100px;
   }
 
-  .carousel img {
+  #carousel li img {
     display: inline-block;
   }
 
