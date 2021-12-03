@@ -210,7 +210,14 @@ body {
   }
 }
 
-#get-involved {
-  max-width: 50%;
+#peak-inside-our-vault {
+  margin-bottom: 50px;
 }
 
+#get-involved {
+  max-width: 50%;
+  background-color: #FFFFE0;
+  border-radius: 25px;
+  color: black;
+  border: 10px solid red;
+}
