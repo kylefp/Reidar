@@ -165,7 +165,7 @@ body {
 }
 
 .arrow-right {
-  border: solid black;
+  border: solid white;
   border-width: 0 3px 3px 0;
   padding: 3px;
   transform: rotate(-45deg);
@@ -174,7 +174,7 @@ body {
 }
 
 .arrow-left {
-  border: solid black;
+  border: solid white;
   border-width: 0 3px 3px 0;
   padding: 3px;
   transform: rotate(135deg);
