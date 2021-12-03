@@ -189,7 +189,7 @@ body {
 }
 
 .invite-only img {
-  animation: rotation 6s infinite linear;
+  animation: rotation 3s infinite linear;
 }
 
 @keyframes rotation {
