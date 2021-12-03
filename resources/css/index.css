@@ -51,7 +51,7 @@ body {
     background-image: url('./resources/images/background.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 10px;
+    padding-top: 10px;
   }
   #history h3 {
     font-weight: bold;
@@ -216,6 +216,6 @@ body {
   background-color: #FFFFE0;
   border-radius: 25px;
   color: black;
-  padding: 5px;
+  padding-bottom: 5px;
 }
 
