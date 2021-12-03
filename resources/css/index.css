@@ -78,7 +78,6 @@ body {
 
   .scrolling {
     display: inline;
-    margin: 50px;
   }
 
   .carousel img {
@@ -209,6 +208,10 @@ body {
   to {
     transform: rotate(359deg);
   }
+}
+
+#peak-inside-our-vault {
+  margin-bottom: 50px;
 }
 
 #get-involved {
