@@ -51,7 +51,7 @@ body {
     font-weight: bold;
     background-color: white;
     border: 2px solid white;
-    color: yellow;
+    color: blue;
     padding: 10px;
     border-radius: 15px;
     margin-bottom: 20px;
@@ -63,14 +63,11 @@ body {
     cursor: pointer;
   }
 
-  #peak-inside-our-vault li img {
+  #carousel img {
     padding: 10px;
     border: 1px solid grey;
     background-color: grey;
     margin-right: 100px;
-  }
-
-  #carousel li img {
     display: inline-block;
   }
 
