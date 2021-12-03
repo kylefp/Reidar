@@ -216,20 +216,4 @@ body {
 
 #get-involved {
   max-width: 50%;
-  background-color: #FFFFE0;
-  border-radius: 25px;
-  color: black;
-  border: 10px solid red;
-}
-
-#get-involved h1 {
-  vertical-align: top;
-}
-
-#get-involved p {
-  vertical-align: center;
-}
-
-.application a {
-  vertical-align: bottom;
 }
