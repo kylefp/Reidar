@@ -219,4 +219,9 @@ body {
   max-width: 50%;
   background-color: #FFFFE0;
   color: black;
+  border: 2px solid red;
+}
+
+#history p {
+  max-width: 60%;
 }
