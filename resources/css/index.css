@@ -71,6 +71,12 @@ body {
     display: inline-block;
   }
 
+  .carousel {
+    white-space: nowrap;
+    width: 900px;
+    overflow-x: auto;
+  }
+
   .application {
     text-align: center;
   }
