@@ -215,5 +215,6 @@ body {
   background-color: #FFFFE0;
   border-radius: 25px;
   color: black;
+  border: 10px solid red;
 }
 
