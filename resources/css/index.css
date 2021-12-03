@@ -221,3 +221,15 @@ body {
   color: black;
   border: 10px solid red;
 }
+
+#get-involved h1 {
+  vertical-align: top;
+}
+
+#get-involved p {
+  vertical-align: center;
+}
+
+.application a {
+  vertical-align: bottom;
+}
