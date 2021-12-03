@@ -68,6 +68,7 @@ body {
     border: 1px solid grey;
     background-color: grey;
     margin-right: 100px;
+    display: inline-block;
   }
 
   .application {
