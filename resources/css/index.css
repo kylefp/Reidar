@@ -211,11 +211,15 @@ body {
   }
 }
 
+#mission {
+  margin: 20px;
+}
+
 #get-involved {
   max-width: 50%;
   background-color: #FFFFE0;
   border-radius: 25px;
   color: black;
-  border: 5px solid #FFFFE0;
+  border: 5px solid red;
 }
 
