@@ -189,14 +189,14 @@ body {
 }
 
 .invite-only img {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  animation-name: example;
-  animation-duration: 4s;
+  animation: rotation 2s infinite linear;
 }
 
-@keyframes example {
-  from {background-color: red;}
-  to {background-color: yellow;}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
